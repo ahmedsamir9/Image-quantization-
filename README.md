@@ -8,4 +8,4 @@ K-mean clustring
 graphs algorithm (DFS)
 
 ## screen shots :
-!![p1.png]
+!.[.].(1.png)
